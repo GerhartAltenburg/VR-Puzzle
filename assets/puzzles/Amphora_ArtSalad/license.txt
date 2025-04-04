@@ -1,0 +1,8 @@
+Model Information:
+* title:	Attic red-figure Nolan neck-amphora
+* source:	No online source available atm
+* author:	Lindenau Museum Altenburg (https://lindenau-museum.de/)
+
+Model License:
+* license type:	CC0-1.0 (http://creativecommons.org/publicdomain/zero/1.0/)
+* requirements:	Credit is not mandatory. Commercial use is allowed.
